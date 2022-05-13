@@ -1,1 +1,2 @@
-# projeto_sistema
+# Esse é o Readme do projeto final, sendo muito importante que seja lido com atenção
+# Ao fazer updates no código, se atentar a somente efetuar um commit quando tiver certeza de que o código continua rodando, dessa forma são evitadas atualizações inúteis e que possam de certa forma nos atrasar no projeto.
